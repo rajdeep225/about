@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Rajdeep Singh
+description: Always Building
+
+author:
+  name: Rajdeep Singh
