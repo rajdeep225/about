@@ -1,9 +1,9 @@
 ---
-title: About me
+title: Rajdeep Singh
 layout: page
 ---
 
-# Rajdeep Singh
+# About Me
 
 Build what you need and keep building!
 
