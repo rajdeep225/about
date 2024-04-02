@@ -3,8 +3,6 @@ title: Rajdeep Singh
 layout: page
 ---
 
-# About Me
-
 Build what you need and keep building!
 
 - [Schedule a meeting](https://calendly.com/rajdeep92)
